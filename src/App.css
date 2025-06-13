@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid red;
+  border: 3px solid purple;
   padding: 10px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 h1 { 
-    color: maroon;
+    color: yellowgreen;
 }
 
 h3 { 
@@ -22,5 +22,5 @@ h3 {
 
 body  {
   padding: 10px;
-  background-color: white;
+  background-color: grey;
 }
